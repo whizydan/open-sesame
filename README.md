@@ -7,3 +7,4 @@
 currently the password is future,which you can change by converting your desired
 password int the corresponding hid codes.
     
+'the hex files are to be flashed using the flip software'
